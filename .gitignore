@@ -1,0 +1,41 @@
+# ---- Unreal Engine: generated / regenerable directories ----
+# These are rebuilt by the editor on open. Never commit them.
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ---- IDE / toolchain ----
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+
+# ---- OS cruft ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- Unreal per-user editor state ----
+# Collections/ and Developers/ hold per-user scratch content.
+Content/Developers/
+Content/Collections/
+*.udb
+
+# ---- Packaged builds & recordings (keep the repo small) ----
+Packaged/
+*.zip
+*.7z
+*.mp4
+*.mkv
+*.mov
