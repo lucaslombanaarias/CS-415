@@ -39,3 +39,5 @@ Packaged/
 *.mp4
 *.mkv
 *.mov
+# ...except the MP1 demo video, which is part of the submission
+!MP1/InfiniteMatrixStarter/MP1_recording.mp4
