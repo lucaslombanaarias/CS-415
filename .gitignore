@@ -41,5 +41,5 @@ Packaged/
 *.mov
 # ...except the MP demo videos, which are part of the submissions
 !MP1/InfiniteMatrixStarter/MP1_recording.mp4
-!MP2/UnrealLearningKit/MP2_recording.mp4
-!MP2/UnrealLearningKit/MP2_Part2_recording.mp4
+!MP2/Part1/MP2_part1_recording.mp4
+!MP2/Part2/MP2_part2_recording.mp4
